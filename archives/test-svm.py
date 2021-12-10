@@ -1,11 +1,11 @@
 from SVM import get_trained_model
-from data_loader import load_data, columns
+from data_loader import load_data, all_columns
 
 model = get_trained_model()
 
 df = load_data()
 
-X = df[columns]
+X = df[all_columns]
 y = df[["subject"]]
 
 a, b = 0, 0

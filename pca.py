@@ -3,13 +3,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import plot, xlabel, ylabel, figure, get_cmap, colorbar, show
 from sklearn.decomposition import PCA
-from data_loader import get_X_y, columns
+from data_loader import get_X_y, all_columns
 
 X, y = get_X_y()
 n_samples = X.shape[0]
 
-X_H = X[filter(lambda x: x.startswith('H.'), columns)]
-X_DD = X[filter(lambda x: x.startswith('DD.'), columns)]
+X_H = X[filter(lambda x: x.startswith('H.'), all_columns)]
+X_DD = X[filter(lambda x: x.startswith('DD.'), all_columns)]
 
 X = X_H
 

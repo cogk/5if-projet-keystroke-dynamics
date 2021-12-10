@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import sklearn.metrics as metrics
-from data_loader import _load_model, _save_model, get_X_y, get_splitted_data, load_data, columns, split_data
+from data_loader import _load_model, _save_model, get_X_y, get_splitted_data, load_data, all_columns, split_data
 from evaluate_model import evaluate_model_simple
 
 
@@ -39,7 +39,7 @@ def get_trained_model():
 
     df = load_data()
 
-    X = df[columns + ["subject"]]
+    X = df[all_columns + ["subject"]]
     y = df[["subject"]]
 
     X_train, X_test, y_train, y_test = split_data(X, y)
