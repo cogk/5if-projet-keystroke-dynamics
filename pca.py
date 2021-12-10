@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import plot, xlabel, ylabel, figure, get_cmap, colorbar, show
 from sklearn.decomposition import PCA
-from data import get_X_y, columns
+from data_loader import get_X_y, columns
 
 X, y = get_X_y()
 n_samples = X.shape[0]

@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
-from data import _load_model, _save_model, get_splitted_data
+from data_loader import _load_model, _save_model, get_splitted_data
 from evaluate_model import evaluate_model_simple
 
 

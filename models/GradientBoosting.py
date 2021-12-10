@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import GradientBoostingClassifier
 
-from data import _load_model, _save_model, get_splitted_data
+from data_loader import _load_model, _save_model, get_splitted_data
 from evaluate_model import evaluate_model_simple
 
 

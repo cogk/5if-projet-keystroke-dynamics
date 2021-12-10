@@ -3,7 +3,7 @@ import pandas as pd
 import sklearn.metrics as metrics
 from sklearn.svm import SVC
 
-from data import _load_model, _save_model, get_X_y, get_splitted_data, load_data, columns, split_data
+from data_loader import _load_model, _save_model, get_X_y, get_splitted_data, load_data, columns, split_data
 from evaluate_model import evaluate_model_simple
 
 

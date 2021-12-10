@@ -1,5 +1,5 @@
 from SVM import get_trained_model
-from data import load_data, columns
+from data_loader import load_data, columns
 
 model = get_trained_model()
 
