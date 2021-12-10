@@ -1,0 +1,231 @@
+Train Acc	Test Acc	number of dropped columns	dataset -- LDA
+0,782	0,768	0	H + DD
+0,781	0,765	1	H + DD but without DD.i.e
+0,779	0,764	1	H + DD but without DD.a.n
+0,778	0,764	1	H + DD but without DD.five.Shift.r
+0,778	0,762	1	H + DD but without DD.t.i
+0,778	0,759	1	H + DD but without DD.l.Return
+0,777	0,763	1	H + DD but without DD.Shift.r.o
+0,777	0,763	1	H + DD but without DD.n.l
+0,777	0,762	1	H + DD but without DD.period.t
+0,773	0,762	1	H + DD but without DD.o.a
+0,773	0,759	1	H + DD but without DD.e.five
+0,769	0,754	1	H + DD but without H.e
+0,769	0,753	1	H + DD but without H.five
+0,768	0,753	1	H + DD but without H.o
+0,765	0,746	1	H + DD but without H.period
+0,764	0,755	1	H + DD but without H.l
+0,764	0,752	1	H + DD but without H.Return
+0,764	0,748	1	H + DD but without H.t
+0,762	0,753	1	H + DD but without H.n
+0,762	0,749	1	H + DD but without H.a
+0,756	0,737	1	H + DD but without H.i
+0,752	0,740	1	H + DD but without H.Shift.r
+0,775	0,760	2	H + DD but without DD.i.e DD.five.Shift.r
+0,775	0,759	2	H + DD but without DD.i.e DD.t.i
+0,773	0,761	2	H + DD but without DD.n.l DD.i.e
+0,773	0,759	2	H + DD but without DD.five.Shift.r DD.a.n
+0,773	0,757	2	H + DD but without DD.a.n DD.t.i
+0,773	0,756	2	H + DD but without DD.a.n DD.Shift.r.o
+0,772	0,760	2	H + DD but without DD.t.i DD.five.Shift.r
+0,771	0,758	2	H + DD but without DD.o.a DD.a.n
+0,771	0,753	2	H + DD but without DD.Shift.r.o DD.l.Return
+0,769	0,753	2	H + DD but without DD.n.l DD.period.t
+0,767	0,756	2	H + DD but without DD.o.a DD.n.l
+0,767	0,748	2	H + DD but without DD.Shift.r.o DD.e.five
+0,766	0,747	2	H + DD but without DD.i.e H.e
+0,766	0,747	2	H + DD but without DD.i.e H.e
+0,763	0,746	2	H + DD but without DD.n.l H.five
+0,763	0,746	2	H + DD but without DD.l.Return H.five
+0,763	0,740	2	H + DD but without DD.l.Return H.o
+0,762	0,748	2	H + DD but without DD.t.i H.e
+0,762	0,746	2	H + DD but without DD.Shift.r.o H.five
+0,761	0,750	2	H + DD but without H.l DD.i.e
+0,761	0,750	2	H + DD but without H.l DD.i.e
+0,761	0,750	2	H + DD but without H.l DD.i.e
+0,761	0,749	2	H + DD but without H.e DD.period.t
+0,761	0,745	2	H + DD but without DD.period.t H.five
+0,760	0,744	2	H + DD but without DD.five.Shift.r H.Return
+0,760	0,743	2	H + DD but without DD.l.Return H.Return
+0,760	0,741	2	H + DD but without H.Return DD.Shift.r.o
+0,759	0,745	2	H + DD but without H.five DD.e.five
+0,759	0,745	2	H + DD but without DD.e.five H.five
+0,759	0,742	2	H + DD but without H.period DD.Shift.r.o
+0,758	0,747	2	H + DD but without H.Return DD.a.n
+0,758	0,742	2	H + DD but without DD.five.Shift.r H.period
+0,757	0,748	2	H + DD but without H.n DD.five.Shift.r
+0,757	0,744	2	H + DD but without H.five H.e
+0,757	0,741	2	H + DD but without DD.n.l H.t
+0,757	0,740	2	H + DD but without H.a DD.Shift.r.o
+0,757	0,738	2	H + DD but without DD.e.five H.o
+0,756	0,748	2	H + DD but without H.n DD.t.i
+0,756	0,745	2	H + DD but without DD.a.n H.a
+0,756	0,741	2	H + DD but without DD.t.i H.t
+0,756	0,741	2	H + DD but without DD.period.t H.t
+0,756	0,741	2	H + DD but without DD.period.t H.t
+0,755	0,748	2	H + DD but without H.l DD.o.a
+0,755	0,742	2	H + DD but without H.a DD.t.i
+0,755	0,742	2	H + DD but without H.a DD.t.i
+0,755	0,742	2	H + DD but without DD.t.i H.a
+0,755	0,741	2	H + DD but without DD.n.l H.a
+0,754	0,746	2	H + DD but without H.n DD.n.l
+0,752	0,734	2	H + DD but without H.i DD.i.e
+0,750	0,735	2	H + DD but without H.l H.five
+0,750	0,735	2	H + DD but without H.l H.five
+0,750	0,733	2	H + DD but without H.i DD.five.Shift.r
+0,750	0,732	2	H + DD but without H.e H.period
+0,749	0,737	2	H + DD but without DD.i.e H.Shift.r
+0,749	0,731	2	H + DD but without H.Return H.o
+0,749	0,729	2	H + DD but without H.i DD.t.i
+0,747	0,731	2	H + DD but without H.five H.t
+0,747	0,729	2	H + DD but without H.i DD.period.t
+0,746	0,735	2	H + DD but without DD.a.n H.Shift.r
+0,746	0,732	2	H + DD but without H.Shift.r DD.Shift.r.o
+0,746	0,731	2	H + DD but without H.t H.o
+0,746	0,731	2	H + DD but without H.o H.t
+0,746	0,731	2	H + DD but without H.o H.t
+0,746	0,729	2	H + DD but without DD.l.Return H.Shift.r
+0,746	0,725	2	H + DD but without H.a H.o
+0,745	0,732	2	H + DD but without DD.n.l H.Shift.r
+0,744	0,735	2	H + DD but without H.Shift.r DD.t.i
+0,744	0,730	2	H + DD but without H.i DD.o.a
+0,744	0,730	2	H + DD but without DD.o.a H.i
+0,742	0,729	2	H + DD but without DD.e.five H.Shift.r
+0,742	0,724	2	H + DD but without H.t H.period
+0,742	0,724	2	H + DD but without H.period H.t
+0,740	0,730	2	H + DD but without H.Return H.a
+0,740	0,730	2	H + DD but without H.a H.Return
+0,740	0,725	2	H + DD but without H.period H.a
+0,740	0,721	2	H + DD but without H.o H.i
+0,740	0,721	2	H + DD but without H.o H.i
+0,740	0,721	2	H + DD but without H.i H.o
+0,735	0,720	2	H + DD but without H.five H.Shift.r
+0,734	0,721	2	H + DD but without H.l H.i
+0,731	0,717	2	H + DD but without H.i H.t
+0,766	0,754	3	H + DD but without DD.five.Shift.r DD.t.i DD.a.n
+0,765	0,752	3	H + DD but without DD.five.Shift.r DD.n.l DD.a.n
+0,765	0,749	3	H + DD but without DD.i.e DD.t.i DD.o.a
+0,762	0,750	3	H + DD but without DD.n.l DD.o.a DD.five.Shift.r
+0,761	0,740	3	H + DD but without DD.period.t DD.e.five DD.l.Return
+0,760	0,742	3	H + DD but without DD.o.a DD.e.five DD.Shift.r.o
+0,758	0,741	3	H + DD but without DD.Shift.r.o DD.e.five DD.t.i
+0,757	0,742	3	H + DD but without H.e DD.five.Shift.r DD.t.i
+0,757	0,741	3	H + DD but without H.e DD.n.l DD.Shift.r.o
+0,756	0,738	3	H + DD but without H.period DD.Shift.r.o DD.i.e
+0,755	0,739	3	H + DD but without DD.a.n DD.o.a H.five
+0,755	0,738	3	H + DD but without H.o DD.t.i DD.Shift.r.o
+0,755	0,736	3	H + DD but without H.Return DD.l.Return DD.five.Shift.r
+0,754	0,741	3	H + DD but without H.e DD.five.Shift.r DD.o.a
+0,753	0,734	3	H + DD but without DD.period.t H.period DD.i.e
+0,753	0,734	3	H + DD but without DD.five.Shift.r DD.l.Return H.t
+0,751	0,734	3	H + DD but without DD.i.e H.o H.e
+0,751	0,732	3	H + DD but without DD.l.Return H.a DD.i.e
+0,750	0,738	3	H + DD but without H.n DD.Shift.r.o DD.a.n
+0,750	0,733	3	H + DD but without H.Return DD.n.l DD.period.t
+0,749	0,732	3	H + DD but without H.period DD.five.Shift.r DD.o.a
+0,748	0,741	3	H + DD but without DD.n.l H.n DD.a.n
+0,748	0,732	3	H + DD but without H.o DD.a.n H.e
+0,747	0,732	3	H + DD but without DD.o.a DD.t.i H.period
+0,746	0,730	3	H + DD but without H.period DD.e.five DD.l.Return
+0,745	0,732	3	H + DD but without DD.t.i H.period DD.e.five
+0,745	0,728	3	H + DD but without H.i DD.five.Shift.r DD.i.e
+0,745	0,727	3	H + DD but without DD.l.Return H.five H.o
+0,744	0,732	3	H + DD but without H.o DD.i.e H.l
+0,744	0,721	3	H + DD but without H.o DD.Shift.r.o H.Return
+0,743	0,736	3	H + DD but without DD.l.Return DD.n.l H.n
+0,743	0,726	3	H + DD but without H.o H.five DD.n.l
+0,742	0,726	3	H + DD but without DD.i.e DD.l.Return H.Shift.r
+0,742	0,725	3	H + DD but without H.period DD.n.l H.e
+0,741	0,725	3	H + DD but without H.five H.o DD.e.five
+0,741	0,721	3	H + DD but without H.t DD.five.Shift.r H.o
+0,740	0,723	3	H + DD but without H.period DD.five.Shift.r H.o
+0,740	0,721	3	H + DD but without DD.n.l H.e H.t
+0,739	0,726	3	H + DD but without DD.period.t DD.a.n H.Shift.r
+0,739	0,723	3	H + DD but without DD.o.a DD.five.Shift.r H.i
+0,739	0,718	3	H + DD but without H.i DD.period.t DD.l.Return
+0,738	0,727	3	H + DD but without H.n H.o DD.n.l
+0,737	0,716	3	H + DD but without H.o H.a DD.t.i
+0,736	0,723	3	H + DD but without H.t DD.o.a H.o
+0,736	0,723	3	H + DD but without DD.Shift.r.o H.t H.l
+0,734	0,727	3	H + DD but without H.Return H.l DD.t.i
+0,734	0,720	3	H + DD but without DD.t.i H.Return H.a
+0,734	0,720	3	H + DD but without DD.e.five DD.o.a H.Shift.r
+0,734	0,719	3	H + DD but without H.period H.a DD.a.n
+0,734	0,717	3	H + DD but without H.n H.t DD.period.t
+0,734	0,716	3	H + DD but without H.five H.l H.o
+0,733	0,727	3	H + DD but without H.Return DD.a.n H.l
+0,733	0,719	3	H + DD but without H.l H.n DD.l.Return
+0,732	0,715	3	H + DD but without DD.a.n H.t H.a
+0,730	0,712	3	H + DD but without H.a DD.n.l H.t
+0,729	0,716	3	H + DD but without H.i H.l DD.Shift.r.o
+0,725	0,715	3	H + DD but without H.i DD.five.Shift.r H.n
+0,725	0,709	3	H + DD but without DD.o.a H.five H.Shift.r
+0,722	0,701	3	H + DD but without H.l H.five H.i
+0,721	0,709	3	H + DD but without H.period H.Shift.r DD.period.t
+0,721	0,707	3	H + DD but without H.period DD.n.l H.Shift.r
+0,717	0,703	3	H + DD but without H.Shift.r H.i DD.five.Shift.r
+0,715	0,702	3	H + DD but without DD.t.i H.i H.Shift.r
+0,714	0,702	3	H + DD but without H.period H.a H.l
+0,710	0,695	3	H + DD but without H.five H.period H.Shift.r
+0,754	0,741	4	H + DD but without DD.o.a DD.five.Shift.r DD.n.l DD.period.t
+0,748	0,731	4	H + DD but without H.Return DD.Shift.r.o DD.o.a DD.i.e
+0,748	0,728	4	H + DD but without DD.five.Shift.r DD.a.n H.e DD.e.five
+0,745	0,730	4	H + DD but without DD.t.i DD.five.Shift.r H.e DD.e.five
+0,743	0,732	4	H + DD but without DD.a.n DD.five.Shift.r H.n DD.Shift.r.o
+0,743	0,726	4	H + DD but without DD.a.n DD.period.t DD.i.e H.t
+0,740	0,728	4	H + DD but without DD.i.e DD.n.l DD.o.a H.a
+0,739	0,724	4	H + DD but without DD.period.t DD.e.five DD.Shift.r.o H.t
+0,739	0,723	4	H + DD but without DD.e.five DD.l.Return H.period DD.Shift.r.o
+0,738	0,726	4	H + DD but without DD.o.a H.o DD.a.n H.e
+0,738	0,723	4	H + DD but without DD.o.a H.e H.o DD.five.Shift.r
+0,737	0,719	4	H + DD but without DD.n.l DD.i.e DD.five.Shift.r H.i
+0,737	0,716	4	H + DD but without H.l H.e DD.period.t DD.Shift.r.o
+0,736	0,727	4	H + DD but without DD.five.Shift.r H.Shift.r DD.i.e DD.a.n
+0,736	0,721	4	H + DD but without DD.e.five DD.i.e H.five H.l
+0,733	0,715	4	H + DD but without H.five DD.t.i DD.o.a H.l
+0,733	0,712	4	H + DD but without H.Return DD.period.t DD.n.l H.o
+0,731	0,716	4	H + DD but without DD.a.n DD.t.i H.e H.t
+0,731	0,711	4	H + DD but without H.o DD.period.t DD.l.Return H.n
+0,730	0,718	4	H + DD but without H.Shift.r DD.a.n DD.o.a DD.five.Shift.r
+0,729	0,715	4	H + DD but without DD.n.l H.period H.l DD.i.e
+0,728	0,711	4	H + DD but without DD.o.a H.Return H.n DD.l.Return
+0,728	0,706	4	H + DD but without DD.Shift.r.o H.o DD.e.five H.period
+0,727	0,716	4	H + DD but without DD.i.e DD.o.a H.t H.l
+0,727	0,712	4	H + DD but without H.n DD.e.five H.five DD.l.Return
+0,726	0,714	4	H + DD but without H.Return H.period DD.e.five DD.o.a
+0,726	0,712	4	H + DD but without DD.Shift.r.o H.o H.l H.e
+0,725	0,717	4	H + DD but without DD.t.i H.l DD.a.n H.a
+0,724	0,715	4	H + DD but without DD.five.Shift.r H.n H.l DD.e.five
+0,724	0,699	4	H + DD but without DD.period.t H.o H.Shift.r DD.l.Return
+0,723	0,711	4	H + DD but without DD.a.n H.n H.a DD.Shift.r.o
+0,723	0,710	4	H + DD but without DD.t.i H.a DD.five.Shift.r H.period
+0,723	0,705	4	H + DD but without DD.i.e DD.l.Return H.Return H.Shift.r
+0,720	0,708	4	H + DD but without H.five DD.e.five DD.i.e H.Shift.r
+0,720	0,707	4	H + DD but without H.l DD.a.n H.i DD.period.t
+0,720	0,704	4	H + DD but without H.a H.period DD.e.five DD.l.Return
+0,719	0,703	4	H + DD but without DD.a.n H.Shift.r DD.l.Return H.five
+0,718	0,695	4	H + DD but without H.Return H.o H.i DD.i.e
+0,717	0,696	4	H + DD but without H.Shift.r H.t DD.l.Return DD.five.Shift.r
+0,716	0,703	4	H + DD but without DD.five.Shift.r DD.l.Return H.i H.n
+0,715	0,702	4	H + DD but without H.five H.period H.t DD.period.t
+0,715	0,698	4	H + DD but without H.n H.t H.five DD.l.Return
+0,715	0,689	4	H + DD but without H.l DD.l.Return H.a H.o
+0,714	0,700	4	H + DD but without H.e H.five H.o H.n
+0,713	0,697	4	H + DD but without H.l H.i DD.e.five DD.n.l
+0,712	0,699	4	H + DD but without H.Shift.r DD.period.t DD.t.i H.n
+0,708	0,683	4	H + DD but without H.a H.o DD.e.five H.t
+0,705	0,690	4	H + DD but without DD.n.l DD.l.Return H.Shift.r H.i
+0,704	0,692	4	H + DD but without H.e DD.five.Shift.r H.Shift.r H.period
+0,703	0,686	4	H + DD but without DD.n.l H.i H.t H.Return
+0,701	0,682	4	H + DD but without H.t H.Return H.period H.five
+0,699	0,690	4	H + DD but without H.l DD.a.n H.n H.Shift.r
+0,699	0,679	4	H + DD but without H.Shift.r H.i DD.t.i H.o
+0,697	0,682	4	H + DD but without H.Shift.r DD.o.a H.a H.e
+0,696	0,685	4	H + DD but without H.l H.t H.Shift.r DD.o.a
+0,693	0,684	4	H + DD but without H.n H.i DD.e.five H.l
+0,693	0,679	4	H + DD but without DD.period.t H.t H.Shift.r H.n
+0,692	0,686	4	H + DD but without DD.n.l H.n H.l H.i
+0,688	0,677	4	H + DD but without H.Shift.r H.Return H.five H.period
+0,687	0,675	4	H + DD but without H.period H.Return H.i H.t
+0,683	0,672	4	H + DD but without H.Shift.r H.n H.five H.l
+0,669	0,651	4	H + DD but without H.a H.Shift.r H.five H.t

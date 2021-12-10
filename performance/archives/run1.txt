@@ -1,0 +1,46 @@
+Gradient Boosting
+load model
+-> no saved model
+Accuracy on training data : 1.0
+
+Accuracy on testing data : 0.7997549019607844
+F1 Score on testing data : 0.7997549019607844
+Fbeta Score on testing data : 0.7997549019607844
+Hamming Loss on testing data : 0.2002450980392157
+Jaccard Score on testing data : 0.666326322238105
+MCC on testing data : 0.7959539862584901
+Precision on testing data : 0.7997549019607844
+Recall on testing data : 0.7997549019607844
+Zero One Loss on testing data : 0.20024509803921564
+
+
+
+Manhattan
+load model
+-> no saved model
+
+Accuracy on testing data : 0.5301470588235294
+F1 Score on testing data : 0.5301470588235294
+Fbeta Score on testing data : 0.5301470588235294
+Hamming Loss on testing data : 0.4698529411764706
+Jaccard Score on testing data : 0.36068034017008505
+MCC on testing data : 0.5216155794275203
+Precision on testing data : 0.5301470588235294
+Recall on testing data : 0.5301470588235294
+Zero One Loss on testing data : 0.4698529411764706
+
+
+
+SVM
+Training...
+Accuracy on training data : 0.828063725490196
+
+Accuracy on testing data : 0.7813725490196078
+F1 Score on testing data : 0.7813725490196078
+Fbeta Score on testing data : 0.7813725490196078
+Hamming Loss on testing data : 0.21862745098039216
+Jaccard Score on testing data : 0.6411906677393403
+MCC on testing data : 0.777292347375061
+Precision on testing data : 0.7813725490196078
+Recall on testing data : 0.7813725490196078
+Zero One Loss on testing data : 0.21862745098039216

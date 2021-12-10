@@ -1,0 +1,27 @@
+# H only
+Accuracy on training data : 0.7988357843137255
+Accuracy on testing data : 0.7620098039215686
+
+# DD only
+Accuracy on training data : 0.6458333333333334
+Accuracy on testing data : 0.5995098039215686
+
+# H + DD
+Accuracy on training data : 0.8286151960784314
+Accuracy on testing data : 0.7884803921568627
+
+# H + DD + UD
+Accuracy on training data : 0.828063725490196
+Accuracy on testing data : 0.7813725490196078
+
+# DD.t.i + H.a
+Accuracy on training data : 0.20324754901960784
+Accuracy on testing data : 0.1948529411764706
+
+# mean(DD) + mean(H)
+Accuracy on training data : 0.2509191176470588
+Accuracy on testing data : 0.24558823529411763
+
+# sum(DD) + sum(H)
+Accuracy on training data : 0.2548406862745098
+Accuracy on testing data : 0.25
