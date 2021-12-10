@@ -106,6 +106,9 @@ def get_X_y(df=None):
 
     X = df[columns]
 
+    X = X.fillna(0)
+    X = X.where(X > 0, 0.000000001)
+
     # X_H = df[filter(lambda x: x.startswith('H.'), columns)].sum(axis=1)
     # X_DD = df[filter(lambda x: x.startswith('DD.'), columns)].sum(axis=1)
     # X = pd.concat([X_H, X_DD], axis=1)
